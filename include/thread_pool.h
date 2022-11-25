@@ -29,6 +29,7 @@
 
 #include <sys/types.h>
 #include <pthread.h>
+#include <limits.h>
 
 #ifdef	__cplusplus
 extern "C" {
